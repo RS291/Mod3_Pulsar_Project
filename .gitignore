@@ -133,4 +133,4 @@ dmypy.json
 
 # Raw dataset folders
 archive/
-pulsar_stars/
+pulsar_stars.csv/
