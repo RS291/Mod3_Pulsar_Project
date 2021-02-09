@@ -1,5 +1,5 @@
 # Predicting Pulsars
-## Module 3 Machine Learning Project
+## Using Classical Machine Learning Techniques to Classify Pulsar Stars
 
 ### Business Problem: <br/>
 I conducted an exploratory data analysis and created models to accurately predict whether or not a candidate star is a pulsar or a false positive.  <br/>
